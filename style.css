@@ -1,0 +1,19 @@
+body{
+   background-color: aqua;
+   text-align: center;
+}
+#pizza1{
+    display: none;
+}
+#pizza2{
+    display: none;
+}
+#pizza3{
+    display: none;
+}
+#pizza4{
+    display: none;
+}
+#pizza5{
+    display: none;
+}
